@@ -36,29 +36,13 @@
 
 ### 💼 О моей работе
 
-- 🔭 Сейчас работаю над: **[Название проекта]**
-- 🌱 Изучаю: **[Новые технологии]**
+- 🔭 Сейчас работаю над: **TaskHub**
+- 🌱 Изучаю: **React**, **Golang**
 - 👯 Открыт к сотрудничеству в **open source проектах**
-- 💬 Спросите меня о **JavaScript, TypeScript, Vue.js, Node.js**
-- ⚡ Интересный факт: **[Что-то интересное о вас]**
-
-### 📈 Активность
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-### 🎯 Мои последние проекты
-
-- 🌐 **[Название проекта 1]** - Описание проекта
-- 🚀 **[Название проекта 2]** - Описание проекта  
-- 💡 **[Название проекта 3]** - Описание проекта
 
 ### 📫 Связаться со мной
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%BC%D1%83%D1%81%D1%82%D1%8F%D1%86%D1%8D-79a68322b/))
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/@Spraym1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alex.must2003@mail.ru)
 
----
-
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
